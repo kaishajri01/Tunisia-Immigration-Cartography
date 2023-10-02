@@ -2,14 +2,13 @@
 
 **Mapping Immigration Trends in Tunisia**
 
-Explore the dynamic landscape of immigration in Tunisia through interactive maps and visualizations. This cartography project aims to shed light on the patterns, challenges, and impacts of immigration in Tunisia by providing accessible and insightful geospatial data.
+Explore the dynamic landscape of immigration in Tunisia through  visualizations. This cartography project aims to shed light on the patterns, challenges, and impacts of immigration in Tunisia by providing accessible and insightful geospatial data.
 
 ## Table of Contents
 - [About](#about)
 - [Key Features](#key-features)
 - [Data Sources](#data-sources)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -38,7 +37,11 @@ Our project relies on a variety of data sources, including government statistics
 
 To explore the Tunisia Immigration Cartography:
 
-1. Navigate through the different sections to gain insights into immigration patterns and demographics.
+1. Clone this repository to your local machine:
+   ```sh
+   https://github.com/kaishajri01/AeroManage.git
+
+2. Navigate through the different sections to gain insights into immigration patterns and demographics.
 
 
 ## Contributing
