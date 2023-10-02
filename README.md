@@ -39,7 +39,7 @@ To explore the Tunisia Immigration Cartography:
 
 1. Clone this repository to your local machine:
    ```sh
-   https://github.com/kaishajri01/AeroManage.git
+   https://github.com/kaishajri01/Cartographie.git
 
 2. Navigate through the different sections to gain insights into immigration patterns and demographics.
 
